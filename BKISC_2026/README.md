@@ -11,12 +11,10 @@ BKISC là cuộc thi An toàn thông tin (CTF) được tổ chức thường ni
 ```
 .
 ├── README.md
-├── OSINT/
-├── Misc/
+├── Write_Up.md
 └── ...
 ```
 
-> Mỗi thư mục con tương ứng với một category, bên trong là các challenge đã giải, mỗi challenge có một `README.md` riêng mô tả cách tiếp cận và lời giải.
 
 ## 📝 Cấu trúc một Write Up
 
@@ -37,7 +35,6 @@ Mỗi write up thường bao gồm các phần:
 
 - **Cuộc thi:** BKISC 2026
 - **Loại repo:** Write Up / Solution
-- **Cập nhật:** _(điền ngày cập nhật gần nhất)_
+- **Cập nhật:** 28.08.2026
 
 ---
-*Chỉnh sửa lại các phần thông tin (tên team, thành viên, danh sách challenge...) cho phù hợp với nội dung thực tế của bạn.*
